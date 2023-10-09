@@ -3,7 +3,7 @@
 This batch file simplifies the process of transferring VSCode to another computer. Follow these steps:
 
 
-1. Download the files.
+1. Download and extract the zip files.
 
 2. Run `Copy_Old_VSCode_Data_To_This_Folder.bat`.
 
